@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_X6512.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X6512-user
+    twrp_X6512-eng
